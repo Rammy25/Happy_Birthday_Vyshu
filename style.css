@@ -1,0 +1,66 @@
+.body1
+{
+    background-image: url(/bg2.jpg);
+    
+}
+.pic2{border: 5px solid black;
+    margin-top: 10px;
+    position: relative;
+    float: right;
+    margin-right: 30px;
+}
+.pic32{border: 5px solid black;
+    margin-top: 10px;
+    float: right;
+    margin-right: 30px;
+}
+.hp1
+{
+    height: 180px;
+}
+.hb1
+{
+    height: 200px;
+    float: left;
+}
+.pic12
+{border: 5px solid black;
+    margin-left: 30px;
+}
+.pic21
+{border: 5px solid black;
+    margin-top: 10px;
+    
+    margin-left: 30px;
+}
+.pic31
+{border: 5px solid black;
+    margin-top: 200px;
+    
+    margin-left: 30px;
+}
+.pic32
+{border: 5px solid black;
+    margin-top: 20px;
+    float: right;
+    margin-left: 30px;
+}
+.body3
+{
+    background-image: url(/bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hd1
+{
+    text-align: center;
+    color: rgb(225, 3, 18);
+    width: 500px;
+    font-size: xx-large;
+}
+.pic41
+{border: 5px solid black;
+    margin-top: 200px;
+    float: left;
+    margin-left: 30px;
+}
